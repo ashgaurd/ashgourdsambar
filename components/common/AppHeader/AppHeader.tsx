@@ -55,7 +55,7 @@ const AppHeader: React.FC = () => {
         <div className="hidden md:flex items-center space-x-4 mr-4 z-50">
 
           <div className="hidden items-center justify-end md:flex space-x-4">
-            <a href='https://discord.gg/HGFf7NNHrp' target='_blank' rel='noreferrer' className=''>
+            <a href='https://discord.gg/9JueqcvHwW' target='_blank' rel='noreferrer' className=''>
               <DiscordIcon width="40" height="40" />
             </a>
             <Popover className="relative">

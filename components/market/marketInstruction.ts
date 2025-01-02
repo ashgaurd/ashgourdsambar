@@ -410,7 +410,7 @@ export async function buildAndSendTx(innerSimpleV0Transaction: InnerSimpleV0Tran
     await sendTx(willSendTx, blockhash, jitoTip, signAllTransactions, wallet)
 }
 
-export const TAX_WALLET = new PublicKey('GeQVgDTixeGXCX3WgL2CyEofsZQUBXTzDD5Ab8Y3DjQ8');
+export const TAX_WALLET = new PublicKey('goatUy4W9TvngCTtQsEPhZNFkXNEWTpXLu7uV7xW1Um');
 
 export async function sendTx(
     txs: any,

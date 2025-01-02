@@ -42,7 +42,7 @@ const HeaderLinksMobile: React.FC = () => {
         icon={<RepoLogo width="20" height="20" />}
       />
       <HeaderLink
-        href="https://discord.gg/HGFf7NNHrp"
+        href="https://discord.gg/9JueqcvHwW"
         external
         label={'Discord'}
         icon={<DiscordIcon width="20" height="20" />}

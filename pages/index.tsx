@@ -205,7 +205,7 @@ items-center lg:justify-between lg:items-center px-4 pb-4 pt-8  md:py-4   z-20  
           <ul className="wrapper flex  ">
 
             <a
-              href="https://www.telegram.com"
+              href="https://t.me/solrugger"
               target="_blank"
               rel="noreferrer"
             >
